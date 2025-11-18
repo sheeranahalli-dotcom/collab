@@ -4,6 +4,7 @@
 int count;
 typedef struct {
     int item[MAXSIZE];
+    //yoooooooooooooooooooooooooooooooooooo;
     int f, r;
 }QUEUE;
 
